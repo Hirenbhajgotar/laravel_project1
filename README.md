@@ -1,7 +1,7 @@
 ## Screenshots
 
 
-<p align="center"><img src="assets/images/screencapture-localhost-8000-2020-04-23-20_24_41.png" width="400"></p>
+<p align="center"><img src="{{ asset('assets/images/screencapture-localhost-8000-2020-04-23-20_24_41.png') }}" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
