@@ -15,7 +15,7 @@
         </div>
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header text-dark text-bold bg-danger">
+                <div class="card-header text-dark text-bold bg-light">
                     <h4>Edit Profile</h4>
                 </div>
                 <div class="card-body">
